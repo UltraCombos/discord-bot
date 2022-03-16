@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./scripts/index.js"
+    "start": "npm i & nodemon ./scripts/index.js"
   },
   "dependencies": {
     "@discordjs/rest": "^0.3.0",
